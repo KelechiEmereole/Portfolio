@@ -62,6 +62,5 @@ With a solid foundation in **Python**, **SQL**, **Power BI**, **Excel**, and **S
 
 Feel free to reach out to me if you're interested in collaborating or discussing exciting data science opportunities:
 
-- **LinkedIn**: [Kelechi Emereole](#)
-- **Email**: [kelechi.email@example.com](mailto:kelechi.email@example.com)
-- **Twitter**: [@kelechi_emereole](#)
+- **LinkedIn**: [kelechi-emereole](#)
+- **Email**: [emereolekelechi@gmail.com](mailto:kelechi.email@example.com)
