@@ -4,3 +4,17 @@ description: Data Scientist
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Adding a base URL for the homepage (optional)
+baseurl: "/"
+
+# Navigation Links (add these if you want to have a nav bar or footer links)
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Contact
+    url: /contact
