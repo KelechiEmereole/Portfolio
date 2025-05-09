@@ -3,13 +3,9 @@ layout: default
 title: Kelechi Emereole - Data Scientist Portfolio
 ---
 
-# Welcome to My Data Science Portfolio!
+# Data Scientist
 
-Hello, I'm **Kelechi Emereole**, a passionate **Data Scientist** and **Machine Learning Engineer** with expertise in **data analysis**, **predictive modeling**, and **machine learning deployment**. My journey in data science blends analytical rigor with the excitement of transforming data into actionable insights.
-
-## About Me
-
-With a solid foundation in **Python**, **SQL**, **Power BI**, **Excel**, and **Streamlit**, I specialize in solving complex problems by applying statistical analysis, machine learning algorithms, and data visualization techniques. I’m particularly passionate about **fraud detection**, **predictive modeling**, and **data-driven decision making**. My goal is to leverage my skills to drive impactful solutions across industries, especially in **finance** and **business analytics**.
+Hello, I'm **Kelechi Emereole**, a passionate **Data Scientist** and **Machine Learning Engineer** with growing expertise in **predictive modeling** and **machine learning deployment**. My journey in data science blends analytical rigor with the excitement of transforming data into actionable insights. I'm focused on continuously learning and building models that tackle real-world challenges.
 
 ## Skills
 
@@ -18,7 +14,6 @@ With a solid foundation in **Python**, **SQL**, **Power BI**, **Excel**, and **S
 - **Tools & Technologies**: Streamlit, Jupyter Notebooks, Excel, Git/GitHub
 - **Machine Learning**: Regression, Classification, Clustering, Model Evaluation, Hyperparameter Tuning
 - **Data Analysis**: Data Cleaning, Exploratory Data Analysis, Feature Engineering
-- **Cloud**: AWS (SageMaker), Google Cloud
 
 ## Featured Projects
 
