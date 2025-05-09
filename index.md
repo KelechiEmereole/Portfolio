@@ -15,6 +15,11 @@ Hello, I'm **Kelechi Emereole**, a passionate **Data Scientist** and **Machine L
 - **Machine Learning**: Regression, Classification, Clustering, Model Evaluation, Hyperparameter Tuning
 - **Data Analysis**: Data Cleaning, Exploratory Data Analysis, Feature Engineering
 
+## Education
+
+- **BSc in Economics**
+- **Currently pursuing a Master's Degree in Financial Engineering**
+
 ## Featured Projects
 
 ### 1. Sales Forecasting with Time Series Analysis
